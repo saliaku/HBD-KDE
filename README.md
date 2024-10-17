@@ -56,3 +56,22 @@ Here is a list of programming languages we’ll be exploring:
 
 Feel free to add your name to the language you're interested in using the following format on the community wiki:
 
+
+Use **2 hyphens** and **4 tildes** to sign your name.
+
+## Contribution Guidelines
+
+1. Write a program that prints "Happy Birthday KDE" in your chosen language.
+2. Document the setup process for the language’s development environment.
+3. Submit your code and documentation for inclusion in the wiki.
+
+## Getting Started
+
+To get started, check out the code examples in this repository and follow the setup instructions for each language.
+
+Happy coding, and let’s make this birthday celebration memorable!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
